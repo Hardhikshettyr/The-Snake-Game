@@ -8,7 +8,7 @@ pygame.init()
 window_width = 500
 window_height = 500
 window = pygame.display.set_mode((window_width, window_height))
-pygame.display.set_caption("Snake Game")
+pygame.display.set_caption("Slither and Conquer: The Snake Game")
 
 # Set up the fonts
 font_style = pygame.font.SysFont("helvetica" , 30, 0, 1)
